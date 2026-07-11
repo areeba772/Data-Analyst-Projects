@@ -35,6 +35,8 @@ This is my first data analysis project, focusing on fundamental skills in data p
 * **Optimize Inventory for High-Performing Regions:** Based on the "Region vs. Profit" analysis, prioritize stock allocation and marketing budgets for regions showing higher profitability to maximize return on investment.
 * **Targeted Seasonal Promotions:** Utilize the "Month vs. Sales" trends to identify peak sales months and plan proactive marketing campaigns or inventory restocks during these high-demand periods to ensure product availability and capture maximum revenue.
 
+
+## Project--2
 Monday Coffee Sales Analysis
 Project Overview
 This project focuses on analyzing coffee sales data to derive business insights for Monday Coffee. By examining customer behavior, city-wise sales performance, and market potential, this analysis helps in making data-driven decisions regarding expansion and marketing strategies.
