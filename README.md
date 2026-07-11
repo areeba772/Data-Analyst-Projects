@@ -40,4 +40,36 @@ This project focuses on analyzing coffee sales data to derive business insights 
 
 ---
 
+## ☕ Project 03: Data Cleaning & Transformation (Music Tours)
+## Project Overview
+This project focused on the end-to-end cleaning and standardization of a "messy" real-world dataset containing global music tour statistics. The raw data contained inconsistent formatting, special characters, and metadata noise that hindered analysis. The objective was to transform this into a clean, structured, and "analysis-ready" dataset using both Excel and SQL.
+
+## Data Cleaning Process
+Inconsistency Resolution: Removed unwanted characters (brackets, citations like [1], [2]) from columns such as Peak, All Time Peak, and Ref.
+
+Standardization: Cleaned financial data to ensure numerical consistency for accurate calculations.
+
+Database Sanitization: Utilized SQL REPLACE() and TRIM() functions to sanitize records and handle missing values, ensuring the dataset adhered to proper data standards.
+
+Key Accomplishments
+Formatted Raw Data: Successfully converted a noisy, unstructured dataset into a clean table with proper data types.
+
+SQL Automation: Wrote efficient SQL scripts to automate the cleaning process, demonstrating proficiency in database management and data manipulation.
+
+Ready for Analysis: The final dataset is now optimized for performance tracking, artist comparison, and financial trend analysis.
+
+Tools Used
+Microsoft Excel: Initial data inspection, structure cleanup, and formatting.
+
+SQL (MySQL Workbench): Advanced data cleaning, sanitization, and query-based transformation.
+
+This project showcases my ability to handle "real-world" messy data, a critical skill for any Data Analyst, by ensuring data integrity before performing advanced analytics.
+
+##screen shorts
+<img width="862" height="602" alt="Screenshot 2026-07-11 000336" src="https://github.com/user-attachments/assets/c914cb27-545b-414f-89e6-6fce9bfeff50" />
+<img width="1365" height="643" alt="Screenshot 2026-07-11 000350" src="https://github.com/user-attachments/assets/ad00c12c-13bc-44a1-90c8-3e1c7c532106" />
+<img width="1365" height="711" alt="Screenshot 2026-07-11 000411" src="https://github.com/user-attachments/assets/83dacde6-07ec-46ee-a554-00b2f839d918" />
+
+
+
 *Thank you for visiting my portfolio. These projects reflect my commitment to data-driven decision-making.*
