@@ -70,8 +70,8 @@ This project showcases my ability to handle "real-world" messy data, a critical 
 <img width="1365" height="643" alt="Screenshot 2026-07-11 000350" src="https://github.com/user-attachments/assets/ad00c12c-13bc-44a1-90c8-3e1c7c532106" />
 <img width="1365" height="711" alt="Screenshot 2026-07-11 000411" src="https://github.com/user-attachments/assets/83dacde6-07ec-46ee-a554-00b2f839d918" /
 
-##Project#05
-HR Analytics Dashboard
+## ☕ Project 05:HR Analytics Dashboard
+
 Description
 This project focuses on HR Analytics to identify key factors influencing employee attrition. By analyzing data on demographics, experience, salary slabs, and job roles, this dashboard provides actionable insights to help HR teams improve employee retention and satisfaction.
 
