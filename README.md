@@ -68,8 +68,34 @@ This project showcases my ability to handle "real-world" messy data, a critical 
 ##screen shorts
 <img width="862" height="602" alt="Screenshot 2026-07-11 000336" src="https://github.com/user-attachments/assets/c914cb27-545b-414f-89e6-6fce9bfeff50" />
 <img width="1365" height="643" alt="Screenshot 2026-07-11 000350" src="https://github.com/user-attachments/assets/ad00c12c-13bc-44a1-90c8-3e1c7c532106" />
-<img width="1365" height="711" alt="Screenshot 2026-07-11 000411" src="https://github.com/user-attachments/assets/83dacde6-07ec-46ee-a554-00b2f839d918" />
+<img width="1365" height="711" alt="Screenshot 2026-07-11 000411" src="https://github.com/user-attachments/assets/83dacde6-07ec-46ee-a554-00b2f839d918" /
 
+## ☕ Project 05:HR Analytics Dashboard
 
+Description
+This project focuses on HR Analytics to identify key factors influencing employee attrition. By analyzing data on demographics, experience, salary slabs, and job roles, this dashboard provides actionable insights to help HR teams improve employee retention and satisfaction.
+
+Dashboard Preview
+Key Insights
+Attrition Analysis: Identifying high-attrition departments and salary slabs.
+
+Demographic Trends: Analyzing attrition patterns across different age groups, genders, and experience levels.
+
+Departmental Overview: Visualizing employee distribution and retention rates across various company departments.
+
+Recommendations
+Retention Strategies: Since attrition is identified in specific salary slabs, consider conducting salary benchmarking to ensure competitiveness.
+
+Targeted Engagement: Use the "Attrition by Experience" insights to create mentorship programs for employees at high-risk stages of their career.
+
+Departmental Focus: Since attrition is concentrated in specific departments (e.g., Finance), investigate potential workplace culture or workload issues within those teams.
+
+Tools Used
+Power BI: For data visualization and interactive dashboarding.
+
+Excel/SQL: For data preparation and cleaning.
+##Screenshorst
+<img width="1360" height="727" alt="Screenshot 2026-07-13 030343" src="https://github.com/user-attachments/assets/6278bfd6-2ae4-4f2d-9b34-ceecc4935fa6" />
+<img width="1365" height="724" alt="Screenshot 2026-07-13 030356" src="https://github.com/user-attachments/assets/510a4b1c-ec38-44dd-b90a-ad46fd3eb5a4" />
 
 *Thank you for visiting my portfolio. These projects reflect my commitment to data-driven decision-making.*
