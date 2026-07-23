@@ -2,8 +2,6 @@
 
 An interactive and professional E-Commerce Sales Dashboard built in **Microsoft Excel** to analyze business performance, revenue trends, product categories, and city-wise orders for PriceOye.
 
----
-
 ## 📊 Project Overview
 This project simulates real-world e-commerce data processing and visualization. It highlights key performance indicators (KPIs) such as total revenue, monthly sales trajectory, top-performing product categories, and regional customer distribution across Pakistan.
 
@@ -30,5 +28,10 @@ This project simulates real-world e-commerce data processing and visualization. 
 2. Open the file in Microsoft Excel.
 3. Use the **Slicers** on the dashboard to filter and explore the data interactively by city or product category.
 
+https://github.com/user-attachments/assets/45964c21-7c2e-42d0-9858-4e9346a9dd8e
+
+
+
 ---
 *Created as part of data analytics portfolio building.*
+
