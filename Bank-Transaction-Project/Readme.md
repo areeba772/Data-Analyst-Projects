@@ -26,6 +26,12 @@ Managing and analyzing raw financial records often involves dealing with unstand
 4. **Dashboard Development:** Designed a multi-visual layout complete with custom color themes, KPI summary cards, and interactive slicers.
 
 Screenshorts
+
+<img width="1358" height="676" alt="Screenshot 2026-09-15 121317" src="https://github.com/user-attachments/assets/8e80637a-b07a-4a7e-be2a-38aa6fe66285" />
+<img width="874" height="485" alt="Screenshot 2026-09-15 121335" src="https://github.com/user-attachments/assets/91fa21c4-ef30-4871-a61b-bbf255a191c9" />
+<img width="842" height="504" alt="Screenshot 2026-09-15 121345" src="https://github.com/user-attachments/assets/b780a871-5984-4475-a91f-f86d890e9e71" />
+
+
 ---
 
 ## 📊 Dashboard Features & Metrics
@@ -35,6 +41,17 @@ Screenshorts
   * *Transaction Status Donut Chart:* Proportions of successful vs. failed/pending entries.
   * *Bank Performance Column Chart:* Volume distribution across institutions like HBL, Meezan, and UBL.
   * *Account & Transaction Type Charts:* Detailed look into Savings vs. Current distributions and Payment/Withdrawal workflows.
+
+Screenshort
+<img width="1071" height="575" alt="Screenshot 2026-09-15 114136" src="https://github.com/user-attachments/assets/dd3d654b-bda1-4b7d-91d1-aaa5b290c85c" />
+
+Video
+
+
+https://github.com/user-attachments/assets/cc63dcd5-6cc1-4a28-ba67-023b0b552f26
+
+
+
 
 ---
 
