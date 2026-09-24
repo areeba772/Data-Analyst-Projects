@@ -12,6 +12,8 @@ Rather than starting directly with visualization, the project followed a complet
 
 ---
 
+
+
 ## 🎯 Business Problem
 
 Management needs a clearer understanding of:
@@ -261,3 +263,5 @@ Messy Data → Reliable Metrics → Business Questions → Evidence-Based Insigh
 A good dashboard should not simply show what happened.
 
 It should help the business understand what happened, where it happened, what may explain it, and what should be investigated next.
+
+Screenshorts
