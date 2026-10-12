@@ -1,101 +1,217 @@
-# 📊 Data Analysis Portfolio
+# 📊 Data Analyst Projects Portfolio
+
+<div align="center">
+
+[![Made with ❤️ by Areeba Riaz](https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20by-Areeba%20Riaz-brightgreen?style=flat-square)](https://github.com/areeba772)
+[![GitHub last commit](https://img.shields.io/github/last-commit/areeba772/Data-Analyst-Projects?style=flat-square)](https://github.com/areeba772/Data-Analyst-Projects)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Now-1f6feb?style=flat-square)](https://portfolio-areebariaz.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-areebariaz084-0A66C2?style=flat-square)](https://www.linkedin.com/in/areebariaz084/)
+
+A portfolio of data analysis, business intelligence, and dashboarding projects built with Excel, SQL, Power BI, and Python.
+
+[Portfolio](https://portfolio-areebariaz.vercel.app/) • [LinkedIn](https://www.linkedin.com/in/areebariaz084/) • [Email](mailto:areebariaz084@gmail.com)
+
+</div>
 
 ---
 
-## 🚀 Project 01: E-Commerce Sales Analysis
+## 📑 Table of Contents
 
-### **Project Overview**
-This project involves cleaning and analyzing an e-commerce sales dataset to uncover key performance trends. The objective was to transform raw sales data into actionable insights through visualization and interactive dashboarding using Microsoft Excel.
-
-<img width="634" height="504" alt="Dashboard Screenshot" src="https://github.com/user-attachments/assets/55fa62c8-bba4-4cc0-aa96-7efadd3f91ef" />
-
-### **Key Features**
-* **Data Cleaning:** Processed raw transactional data to ensure consistency and accuracy.
-* **Data Modeling:** Organized data to enable efficient filtering and aggregation.
-* **Interactive Dashboard:** Created an intuitive dashboard featuring slicers for dynamic exploration by **Region** and **Category**.
-
-### **Recommendations**
-* **Optimize Inventory:** Prioritize stock allocation for high-profit regions to maximize ROI.
-* **Seasonal Promotions:** Utilize sales trends to plan proactive campaigns during peak demand months.
+1. [Projects Overview](#-projects-overview)
+2. [Project Details](#-project-details)
+3. [Skills & Tools](#-skills--tools)
+4. [Key Achievements](#-key-achievements)
+5. [Getting Started](#-getting-started)
+6. [Contact](#-contact)
 
 ---
 
-## ☕ Project 02: Monday Coffee Sales Analysis
+## 🎯 Projects Overview
 
-### **Project Overview**
-This project focuses on analyzing coffee sales data to derive business insights for **Monday Coffee**. By examining customer behavior, city-wise sales performance, and market potential, this analysis helps in making data-driven decisions regarding expansion and marketing strategies.
-
-### **Key Features**
-* **Database Design:** Created a normalized relational database schema (Customers, Products, City, Sales).
-* **Business Intelligence:** Developed complex SQL queries (using `DENSE_RANK`, `LAG`, and `WITH` clauses) to solve real-world business problems.
-* **Market Analysis:** Analyzed "Average Rent per Customer" to identify cost-effective cities.
-
-### **Strategic Recommendations**
-* **Pune:** High profitability market with significant revenue and low rent costs.
-* **Delhi:** Greatest market potential with 7.7 million estimated coffee consumers.
-* **Jaipur:** Excellent balance of high customer volume and very low operational rent.
-
-### **Technologies Used**
-* **SQL (MySQL/PostgreSQL):** Database modeling, complex analytical querying, and data manipulation.
+| # | Project | Focus | Tools | Status |
+|---|---------|-------|-------|--------|
+| 1 | E-Commerce Sales Analysis | Dashboard Design & Data Visualization | Excel, Power BI | ✅ Complete |
+| 2 | Monday Coffee Sales | SQL Analytics & Market Analysis | SQL, Database Design | ✅ Complete |
+| 3 | Music Tours Data Cleaning | Data Cleaning & ETL | Excel, SQL | ✅ Complete |
+| 4 | HR Analytics Dashboard | Employee Attrition Analysis | Power BI, Excel | ✅ Complete |
+| 5 | Bank Loan Default Analysis | Risk Analysis & Portfolio Health | Excel (PivotTables) | ✅ Complete |
+| 6 | Financial Dashboard | KPI Tracking & Profit Analysis | Excel, Power BI | ✅ Complete |
+| 7 | Customer Churn Analysis | Predictive Analytics | Python, Jupyter | ✅ Complete |
+| 8 | Food Delivery Analytics | Operational Intelligence | SQL, Visualization | ✅ Complete |
 
 ---
 
-## ☕ Project 03: Data Cleaning & Transformation (Music Tours)
-## Project Overview
-This project focused on the end-to-end cleaning and standardization of a "messy" real-world dataset containing global music tour statistics. The raw data contained inconsistent formatting, special characters, and metadata noise that hindered analysis. The objective was to transform this into a clean, structured, and "analysis-ready" dataset using both Excel and SQL.
+## 📊 Project Details
 
-## Data Cleaning Process
-Inconsistency Resolution: Removed unwanted characters (brackets, citations like [1], [2]) from columns such as Peak, All Time Peak, and Ref.
+### 1️⃣ E-Commerce Sales Analysis
+**Location:** [`/E-Commerce-Sales`](E-Commerce-Sales)
 
-Standardization: Cleaned financial data to ensure numerical consistency for accurate calculations.
+This project analyzes e-commerce sales data to uncover trends, evaluate performance, and deliver actionable business insights through interactive dashboards.
 
-Database Sanitization: Utilized SQL REPLACE() and TRIM() functions to sanitize records and handle missing values, ensuring the dataset adhered to proper data standards.
+**Key Features**
+- Data cleaning and transformation
+- Dynamic dashboard with region/category filters
+- Sales performance and inventory insights
+- Recommendation-driven analysis
 
-Key Accomplishments
-Formatted Raw Data: Successfully converted a noisy, unstructured dataset into a clean table with proper data types.
+**Tools:** Excel, Power BI
 
-SQL Automation: Wrote efficient SQL scripts to automate the cleaning process, demonstrating proficiency in database management and data manipulation.
+---
 
-Ready for Analysis: The final dataset is now optimized for performance tracking, artist comparison, and financial trend analysis.
+### 2️⃣ Monday Coffee Sales Analysis
+**Location:** [`/Project-2`](Project-2)
 
-Tools Used
-Microsoft Excel: Initial data inspection, structure cleanup, and formatting.
+A SQL-driven market analysis project focusing on customer behavior, city-wise sales, and profitability across coffee markets.
 
-SQL (MySQL Workbench): Advanced data cleaning, sanitization, and query-based transformation.
+**Key Features**
+- Normalized schema design
+- Advanced SQL logic using ranking and window functions
+- Market opportunity analysis
+- Revenue and rent optimization insights
 
-This project showcases my ability to handle "real-world" messy data, a critical skill for any Data Analyst, by ensuring data integrity before performing advanced analytics.
+**Tools:** SQL, Database Design, Excel
 
-##screen shorts
-<img width="862" height="602" alt="Screenshot 2026-07-11 000336" src="https://github.com/user-attachments/assets/c914cb27-545b-414f-89e6-6fce9bfeff50" />
-<img width="1365" height="643" alt="Screenshot 2026-07-11 000350" src="https://github.com/user-attachments/assets/ad00c12c-13bc-44a1-90c8-3e1c7c532106" />
-<img width="1365" height="711" alt="Screenshot 2026-07-11 000411" src="https://github.com/user-attachments/assets/83dacde6-07ec-46ee-a554-00b2f839d918" /
+---
 
-## ☕ Project 05:HR Analytics Dashboard
+### 3️⃣ Music Tours Data Cleaning & Transformation
+**Location:** [`/project-1`](project-1)
 
-Description
-This project focuses on HR Analytics to identify key factors influencing employee attrition. By analyzing data on demographics, experience, salary slabs, and job roles, this dashboard provides actionable insights to help HR teams improve employee retention and satisfaction.
+A data-quality project demonstrating how messy real-world data is cleaned and standardized for reliable analysis.
 
-Dashboard Preview
-Key Insights
-Attrition Analysis: Identifying high-attrition departments and salary slabs.
+**Key Features**
+- Inconsistent values cleaned and standardized
+- Financial and text formatting normalized
+- Database sanitization with SQL functions
+- Ready-for-analysis dataset creation
 
-Demographic Trends: Analyzing attrition patterns across different age groups, genders, and experience levels.
+**Tools:** Excel, SQL
 
-Departmental Overview: Visualizing employee distribution and retention rates across various company departments.
+---
 
-Recommendations
-Retention Strategies: Since attrition is identified in specific salary slabs, consider conducting salary benchmarking to ensure competitiveness.
+### 4️⃣ HR Analytics Dashboard
+**Location:** [`/project-5`](project-5)
 
-Targeted Engagement: Use the "Attrition by Experience" insights to create mentorship programs for employees at high-risk stages of their career.
+An HR analytics dashboard designed to highlight attrition patterns, workforce demographics, and targeted retention opportunities.
 
-Departmental Focus: Since attrition is concentrated in specific departments (e.g., Finance), investigate potential workplace culture or workload issues within those teams.
+**Key Features**
+- Attrition analysis by department and salary slab
+- Demographic trend analysis
+- Retention planning recommendations
 
-Tools Used
-Power BI: For data visualization and interactive dashboarding.
+**Tools:** Power BI, Excel, SQL
 
-Excel/SQL: For data preparation and cleaning.
-##Screenshorst
-<img width="1360" height="727" alt="Screenshot 2026-07-13 030343" src="https://github.com/user-attachments/assets/6278bfd6-2ae4-4f2d-9b34-ceecc4935fa6" />
-<img width="1365" height="724" alt="Screenshot 2026-07-13 030356" src="https://github.com/user-attachments/assets/510a4b1c-ec38-44dd-b90a-ad46fd3eb5a4" />
+---
 
-*Thank you for visiting my portfolio. These projects reflect my commitment to data-driven decision-making.*
+### 5️⃣ Bank Loan Default Analysis
+**Location:** [`/BANK-PROJECT`](BANK-PROJECT)
+
+An interactive Excel dashboard built to assess portfolio risk, default trends, and segment performance for a bank loan dataset.
+
+**Key Features**
+- Executive KPI cards
+- Interactive slicers and pivot charts
+- Default-risk analysis
+- One-page dashboard presentation
+
+**Tools:** Excel (PivotTables, PivotCharts, Slicers, GETPIVOTDATA)
+
+---
+
+### 6️⃣ Financial Dashboard
+**Location:** [`/Finance-project`](Finance-project)
+
+A financial dashboard to monitor sales, product performance, revenue, and profit distribution across market segments.
+
+**Key Features**
+- Revenue and product analysis
+- Segment-wise performance views
+- Interactive filters
+- Executive-style KPI layout
+
+**Tools:** Excel, Data Visualization
+
+---
+
+### 7️⃣ Customer Churn Analysis
+**Location:** [`/Customer-churn-analysis`](Customer-churn-analysis)
+
+A machine-learning and analytics project focused on understanding churn behavior and identifying retention opportunities.
+
+**Key Features**
+- EDA and customer segmentation
+- Churn risk assessment
+- Predictive model exploration
+- Strategic recommendations
+
+**Tools:** Python, Jupyter Notebook, Pandas, Scikit-learn
+
+---
+
+### 8️⃣ Food Delivery Analytics
+**Location:** [`/food-delivery-analytics`](food-delivery-analytics)
+
+This project evaluates operational performance in a food delivery ecosystem with a view toward efficiency and demand trends.
+
+**Key Features**
+- Order and delivery insights
+- Operational performance tracking
+- Restaurant and delivery optimization
+
+**Tools:** SQL, Python, Visualization
+
+---
+
+## 🛠️ Skills & Tools
+
+- Excel: PivotTables, Forecasting, Cleaning, Charts, Dashboard Design
+- SQL: Data modeling, aggregation, window functions, joins
+- Power BI: Data visualization, reporting, KPI dashboards
+- Python: Data analysis, notebooks, predictive modeling
+- Data Cleaning & ETL
+- Business Intelligence
+- Dashboard Storytelling
+
+---
+
+## 🏆 Key Achievements
+
+- 8+ end-to-end data analytics projects
+- 255K+ records analyzed across multiple domains
+- Strong focus on business-driven insights and executive reporting
+- Clear documentation and presentation of findings
+- Blend of analytical and visualization expertise
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+- Microsoft Excel 2016+
+- Power BI Desktop (if using dashboard files)
+- SQL client (MySQL/PostgreSQL)
+- Python 3.8+ and Jupyter Notebook
+
+### Clone
+```bash
+git clone https://github.com/areeba772/Data-Analyst-Projects.git
+cd Data-Analyst-Projects
+```
+
+---
+
+## 🤝 Contact
+
+**Areeba Riaz**
+
+- Email: areebariaz084@gmail.com
+- LinkedIn: https://www.linkedin.com/in/areebariaz084/
+- Portfolio: https://portfolio-areebariaz.vercel.app/
+- GitHub: https://github.com/areeba772
+
+---
+
+<div align="center">
+
+⭐ Thank you for visiting my portfolio. ⭐
+
+</div>
